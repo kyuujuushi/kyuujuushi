@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyuujuushi
 - 👀 I’m interested in drawing and using technology to incorporate in art
-- 🌱 I’m currently learning javascript I guess
+- 🌱 I’m currently JSON. Help me
 - 💞️ I’m not looking to collaborating with anyone at the moment ;-;
 - 📫 How to reach me -
 
