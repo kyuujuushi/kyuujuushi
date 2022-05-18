@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyuujuushi
 - 👀 I’m interested in drawing and using technology to incorporate in art
-- 🌱 I’m currently learning JSON. Help me
+- 🌱 I’m currently learning SQL (not rn but like in two weeks I will)
 - 💞️ I’m not looking to collaborating with anyone at the moment ;-;
 - 📫 How to reach me -
 
@@ -8,7 +8,7 @@
   
   Tumblr  ---> alankp49.tumblr.com
   
-  *no email for professional purposes yet bc I'm gonna forget that bitch*
+  *no email for professional purposes yet bc I have no money*
 
 <!---
 kyuujuushi/kyuujuushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
